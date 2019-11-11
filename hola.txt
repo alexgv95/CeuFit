@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-kpasa
-=======
-archivo de prueba de conexion de git
->>>>>>> 6a2ff07c83a65876f5e137bbebda9504b17edab3
